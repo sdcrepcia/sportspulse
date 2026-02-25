@@ -1,5 +1,5 @@
-import LiveBadge from "./LiveBadge.tsx";
-import ChannelBadge from "./ChannelBadge.tsx";
+import LiveBadge from "./LiveBadge";
+import ChannelBadge from "./ChannelBadge";
 import { Game } from "@/lib/espn";
 
 type Region = "us" | "uk" | "ca";
